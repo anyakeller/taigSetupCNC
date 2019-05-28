@@ -14,7 +14,7 @@ Cell: 646-206-8789
 ## Table of Contents
 1. [About the Taig DSLS3000](#1-About-the-Taig-DSLS3000)
 2. [Preparing Your Computer and Mill Setup](#2-Preparing-Your-Computer-and-Mill-Setup)
-3. [Installing Mach 3 and the Controller](#2-Installing-Mach-3-and-the-Controller)
+3. [Installing Mach 3 and the Controller](#3-Installing-Mach-3-and-the-Controller)
 4. Initializing Taig Mach 3 Profile
 5. Setting up the Taig CNC Mill
 6. Setting SolidCam Taig CNC Mill Profile
