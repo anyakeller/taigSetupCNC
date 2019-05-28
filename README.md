@@ -10,9 +10,9 @@ Email: anya@kiteandrocket.com
 Cell: 646-206-8789
 
 ---
-
+[Go to Real Cool Heading section](#real-cool-heading)
 ## Table of Contents
-1. About the Taig DSLS3000
+1. [About the Taig DSLS3000](#About-the-Taig-DSLS3000)
 2. Preparing Your Computer and Mill Setup
 3. Installing Mach 3 and the Controller
 4. Initializing Taig Mach 3 Profile
