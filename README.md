@@ -1,5 +1,5 @@
-# taigSetupCNC
-Instructions for setup of Taig DSLS3000 Model
+# Taig DSLS3000 CNC Mill Guide
+###### Instructions for setup of Taig DSLS3000 Model and Usage Tips
 
 File Creation Date: 5/21/2019
 Most Recent Edit: 5/28/2019
@@ -32,8 +32,19 @@ In this section we will go over the steps to prepare your computer for Mach 3 in
 ## 3. Installing Mach 3 and the Controller
 This section covers the instalation of Mach 3
 
-#### Prerequisite Files (From purchase of Taig CNC mill on CD disk)
-* Mach 3 liscense file
-* Found in DSLS3000AB Folder
+### Prerequisite Files (From purchase of Taig CNC mill on CD disk)
+* Files found in DSLS3000AB Folder
 ..* Mach3mill.xml
-..* MPS1024E.SET 
+..* MPS1024E.SET
+* BackgroundToolpath3.jpg
+* Mach1lic.dat
+
+### Other Reqired Files
+_Some may be found on the server or this repo_
+* Downloadable 
+..* [Mach 3](https://www.machsupport.com/software/mach3 "Mach 3 Download") 
+..* UC100 Controller Plugin _Note: UC100 Controller Plugin is hard to find and install, **AHHHH THIS NEEDS HELP**_
+* User Created
+..*Mach 3/Taig Post process file for SolidCam
+..*Taig Machine File for SolidCam
+
