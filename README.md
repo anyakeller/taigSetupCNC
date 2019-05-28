@@ -45,6 +45,6 @@ _Some may be found on the server or this repo_
   * [Mach 3](https://www.machsupport.com/software/mach3 "Mach 3 Download") 
   * UC100 Controller Plugin _Note: UC100 Controller Plugin is hard to find and install, **AHHHH THIS NEEDS HELP**_
 * User Created
-  *Mach 3/Taig Post process file for SolidCam
-  *Taig Machine File for SolidCam
+  * Mach 3/Taig Post process file for SolidCam
+  * Taig Machine File for SolidCam
 
